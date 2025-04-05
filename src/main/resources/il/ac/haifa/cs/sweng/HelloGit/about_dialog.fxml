@@ -27,6 +27,15 @@
 			<Font size="25" />
 		</font>
 	</Label>
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Eden Rosen 317930766"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="25" />
+		</font>
+	</Label>
 
 </VBox>
 
